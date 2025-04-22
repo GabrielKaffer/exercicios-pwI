@@ -6,7 +6,7 @@
     text-decoration: none;
 }
 body{
-    background-image: url(/assets/bg-2.png);
+    background-image: url(assets/bg-2.png);
     display: flex;
     gap: 2rem;
     align-items: center;
