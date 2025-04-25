@@ -188,3 +188,52 @@ a:visited{
     font-size: 16px;
     margin-top: 40px;
 }
+.register {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+    color: #424242;
+}
+
+.register-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 24px;
+}
+
+.inputregister {
+    width: 100%;
+    height: 35px;
+    padding: 6px;
+}
+
+.input-register {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.required {
+    color: red;
+    font-size: small;
+
+}
+
+.title {
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+    color: #424242;
+}
+
+.caixa .conteudo select{
+    width: 250px;
+}
+
+.caixa .conteudo textarea {
+    margin-bottom: 20px;
+    width: 350px;
+    height: 150px;
+}
