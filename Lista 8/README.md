@@ -1,3 +1,7 @@
+#Projeto realizado por:
+Gabriel Kaffer Dias
+Lucas Soares Machado
+
 # 📱 Projeto: Site de Curso de Manutenção de Celular, Tablet e Notebooks
 
 ## 🎯 Objetivo
@@ -38,7 +42,8 @@ O design deve seguir os espaçamentos e posicionamentos indicados no `craftsy-bl
 ![Login](./prototipos/login-craftsy.png)
 
 ## 👪 Time DEV
-O time de desenvolvimento poderá ter até três Participantes.
+Gabriel Kaffer Dias
+Lucas Soares Machado
 
 ## 📅 Prazo de Entrega
  
